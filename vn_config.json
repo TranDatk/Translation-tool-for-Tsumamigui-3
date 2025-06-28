@@ -1,0 +1,36 @@
+{
+  "txt_path": "C:/Users/Admin/Downloads/alice-tools-0.13.0/alice-tools-0.13.0/ja/dist/out.txt",
+  "out_path": "C:/Users/Admin/Downloads/alice-tools-0.13.0/alice-tools-0.13.0/ja/dist/new.xlsx",
+  "rules": [
+    {
+      "start": "『",
+      "end": "』"
+    },
+    {
+      "start": "「",
+      "end": "」"
+    },
+    {
+      "start": "（",
+      "end": "）"
+    },
+    {
+      "start": "",
+      "end": "。"
+    }
+  ],
+  "insert_config": {
+    "insert_input_path": "C:/Users/Admin/Downloads/alice-tools-0.13.0/alice-tools-0.13.0/ja/dist/new.xlsx",
+    "insert_output_path": "C:/Users/Admin/Downloads/alice-tools-0.13.0/alice-tools-0.13.0/ja/dist/out.txt",
+    "max_chars": 60,
+    "vir_chars": "áàảãạắằẳẵặấầẩẫậéèẻẽẹếềểễệíìỉĩịóòỏõọốồổỗộớờởỡợúùủũụứừửữựýỳỷỹỵđÁÀẢÃẠẮẰẲẴẶÉÈẺẼẸẾỀỂỄỆÍÌỈĨỊÓÒỎÕỌỐỒỔỖỘỚỜỞỠỢÚÙỦŨỤỨỪỬỮỰÝỲỶỸỴĐôâăơưÔÂĂƠƯêÊ",
+    "phy_chars": "｡ュョ､･ｦｧｨｩｪｫｬｭｮｯｰｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉﾊﾋﾌﾍﾎﾏﾐﾑﾒﾓﾔﾕﾖﾗﾘﾙﾚﾛﾜﾝアイウエオカキクケコカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレワヲンァィゥェォャあいうえおかきくけこさし",
+    "show_vir": false,
+    "show_phy": false
+  },
+  "alice_config": {
+    "ain_file_path": "C:/Users/Admin/Downloads/alice-tools-0.13.0/alice-tools-0.13.0/ja/dist/Tsumamigui3.ain",
+    "txt_file_path": "C:/Users/Admin/Downloads/alice-tools-0.13.0/alice-tools-0.13.0/ja/dist/out.txt",
+    "output_ain_path": "C:/Users/Admin/Downloads/Tsumamigui 3-ENGVersion/Tsumamigui 3-VJ009980/Game/Tsumamigui3.ain"
+  }
+}
