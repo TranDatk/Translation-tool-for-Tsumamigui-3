@@ -154,9 +154,9 @@ The generated Excel file has 4 columns:
 
 | Range     | Speaker | Dialogue                | Translate           |
 |-----------|---------|-------------------------|---------------------|
-| 1069      | ナレーター | 「結婚！？」                 "Marriage!?"         
-| 1070-1072 | 明人      裏返り、震える声が部屋に...   | Voice trembling...  |
-| 1073      | ナレーター | よく晴れた、とある冬の日         null                
+| 1069      | ナレーター | 「結婚！？」           |      "Marriage!?"   |      
+| 1070-1072 | 明人     | 裏返り、震える声が部屋に...   | Voice trembling...  |
+| 1073      | ナレーター | よく晴れた、とある冬の日     |    null         |       
 
 **Column Descriptions**:
 - **Range**: Line numbers (single or range)
